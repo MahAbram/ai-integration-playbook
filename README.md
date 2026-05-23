@@ -28,6 +28,9 @@ This leaves teams frustrated: you know the technology is powerful, but you end u
 
 The playbook is organized into four parts, moving from individual experimentation to enterprise-grade automation.
 
+### Start Here (Optional but Recommended)
+* **The 30-Minute Path:** A short chapter for the reader who has used a single AI tool and is wondering where to go next. The core idea behind multi-tool integration, the Triple Constraint for tool selection, and one workflow you can run in 15 minutes that will save time within a week.
+
 ### Part 1: The AI Application Landscape (Beyond Text)
 * **The Multi-Modal Ecosystem:** Moving past LLMs into Vision, Audio, and Video.
 * **The "Right Tool" Decision Matrix:** A framework for selecting the exact engine for your objective without guessing.
@@ -63,6 +66,7 @@ The playbook is organized into four parts, moving from individual experimentatio
 
 This is a **live document**. The landscape of AI tools and APIs evolves at a blistering pace, but the underlying methodologies taught here remain constant.
 
+* **If you only have 30 minutes:** Read the *Start Here* chapter and run the Voice Calibration Protocol it points to. That single workflow will save you time within a week, even if you never read another chapter.
 * **Read it linearly** to transition systematically from an operator to a systems architect.
 * **Jump to Part 2** if you have a specific bottleneck (like messy data or a blank presentation) that you need to solve immediately.
 * **Consult Part 4** before you pitch a new automated AI pipeline to your IT or Legal department.
