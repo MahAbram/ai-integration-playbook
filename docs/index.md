@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "AI Integration Playbook"
   text: "A Playbook for the Modern Professional"
-  tagline: "Evolving from a chatbot user to a workflow systems architect.""
+  tagline: "Evolving from a chatbot user to a workflow systems architect."
   actions:
     - theme: brand
       text: Start Here →
