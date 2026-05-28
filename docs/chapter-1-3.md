@@ -46,3 +46,5 @@ Published in December 2023, ISO/IEC 42001 is the world's first certifiable AI ma
 
 **Wrap-up**
 AI integration is an exercise in resource allocation and risk management. A master mechanic does not use a screwdriver to hammer a nail. By applying the Application Decision Matrix, respecting the Triple Constraint, and aligning with industry standards like the NIST AI RMF and ISO/IEC 42001, you ensure that every prompt and dataset is routed to an engine that is both capable and compliant.
+
+As we move into Part 2, you will begin applying this framework directly, executing hands-on multi-modal workflows to build your own use case library.
