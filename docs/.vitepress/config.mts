@@ -73,7 +73,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '4.1 How AI Systems Communicate — APIs, Webhooks, and Structured Outputs', link: '/chapter-4-1' },
-          { text: '4.2 How AI Accesses What It Doesn't Know — RAG and the Knowledge Layer', link: '/chapter-4-2' },
+          { text: '4.2 How AI Accesses What It Does Not Know — RAG and the Knowledge Layer', link: '/chapter-4-2' },
           { text: '4.3 How AI Systems Remember — Memory Architectures', link: '/chapter-4-3' },
           { text: '4.4 How Pipelines Are Built — Orchestration, Design, and Deployment', link: '/chapter-4-4' },
           { text: '4.5 How Systems Are Monitored — Observability and Validation', link: '/chapter-4-5' },
