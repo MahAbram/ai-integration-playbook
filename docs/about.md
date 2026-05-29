@@ -31,7 +31,7 @@ This leaves teams frustrated: you know the technology is powerful, but you end u
 ## The Structure
 
 The playbook is organized into four parts, moving from individual experimentation to enterprise-grade automation.
-
+ 
 ### Start Here (Optional but Recommended)
 * **The 30-Minute Path:** A short chapter for the reader who has used a single AI tool and is wondering where to go next. The core idea behind multi-tool integration, the Triple Constraint for tool selection, and one workflow you can run in 15 minutes that will save time within a week.
 
@@ -51,10 +51,10 @@ The playbook is organized into four parts, moving from individual experimentatio
 * **The AI Champion:** Stepping into the role of the departmental AI evangelist and building your Capstone portfolio.
 
 ### Part 4: Advanced AI Integration (Under the Hood)
-* **Economics & Architecture:** Understanding APIs, token usage, and the Multi-Model strategy.
-* **No-Code Orchestration:** Building autonomous, asynchronous AI agents using visual platforms.
-* **Validation & Governance:** Running NIST-aligned "Evals" to mathematically test your systems for safety and hallucination.
-* **Enterprise Alignment:** Securing budget and buy-in from IT, Legal, and Finance.
+* **The Communication Layer:** How systems talk through APIs, Webhooks, and Structured Outputs.
+* **Knowledge & Memory:** How AI accesses private data through RAG, and how systems remember across sessions.
+* **Orchestration & Observability:** Designing reliable pipelines, then validating and monitoring them after deployment.
+* **Governance & Enterprise Alignment:** Data classification, AI governance frameworks, and securing buy-in from IT, Legal, and Finance.
 
 ---
 
