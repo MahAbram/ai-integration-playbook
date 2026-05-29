@@ -15,9 +15,9 @@ hero:
 
 features:
   - title: Multi-Modal Mastery
-    details: No Python, no jargon. Written for HR leads, analysts, ops managers, and marketers.
+    details: Orchestrate text, image, research, and code tools — not just one chatbot in a browser tab.
   - title: Plug-and-Play Pipelines
-    details: A repeatable methodology — Context, Clarity, Constraint, Content — for boardroom-ready results.
+    details: A dozen step-by-step workflows, plus no-code automation with APIs and orchestrators like Zapier.
   - title: The Multi-Model Strategy
-    details: Compare ChatGPT, Claude, Gemini, and Copilot against your own real work.
+    details: Route each task to the right engine — balancing Cost, Privacy, and Capability across vendors.
 ---
